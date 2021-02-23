@@ -1,0 +1,30 @@
+{
+	"passed": 0,
+	"failed": 0,
+	"errors": 0,
+	"skipped": 0,
+	"tests": 0,
+	"assertions": 0,
+	"errmessages": [],
+	"modules": {
+		"nightwatch.conf": {
+			"reportPrefix": "CHROME_87.0.4280.66_Linux_",
+			"assertionsCount": 0,
+			"lastError": null,
+			"skipped": [],
+			"time": "0.000",
+			"completed": {},
+			"errmessages": [],
+			"testsCount": 0,
+			"skippedCount": 0,
+			"failedCount": 0,
+			"errorsCount": 0,
+			"passedCount": 0,
+			"group": "",
+			"modulePath": "/home/tm/Documents/testing/CEEKTV-TEST-develop/nightwatch.conf.js",
+			"tests": 0,
+			"failures": 0,
+			"errors": 0
+		}
+	}
+}
